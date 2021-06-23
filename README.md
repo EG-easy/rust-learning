@@ -1,5 +1,11 @@
 # rust-learning
 
+ref: https://doc.rust-jp.rs/book-ja-pdf/book.pdf
+
+## guessing_game
+```
+cargo run
+```
 
 ## minigrep
 ```
